@@ -1,0 +1,671 @@
+[Root]
+Most Recent Package=Appointment Diarys
+
+
+[Package|diary|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\New Folder\recent\Application
+
+[Package|diary|Configure DAO ISAMs]
+Applicable=No
+
+[Package|diary|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|diary|Files Found]
+
+[Package|diary|Files Released]
+
+[Package|diary|Missing Dependency Information]
+C:\WINDOWS\SYSTEM\MSHFLXGD.OCX=
+C:\WINDOWS\SYSTEM\MSSTDFMT.DLL=
+C:\Program Files\Common Files\SYSTEM\ADO\MSADO20.TLB=
+
+[Package|diary|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM\MSADODC.OCX=
+C:\WINDOWS\SYSTEM\COMCT332.OCX=
+C:\WINDOWS\SYSTEM\MSDATLST.OCX=
+C:\WINDOWS\SYSTEM\MSDATGRD.OCX=
+C:\WINDOWS\SYSTEM\MSMASK32.OCX=
+C:\WINDOWS\SYSTEM\Mswinsck.ocx=
+C:\WINDOWS\SYSTEM\Richtx32.ocx=
+C:\WINDOWS\SYSTEM\Msinet.ocx=
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=
+
+[Package|diary|Files Added]
+
+[Package|diary|Files Removed]
+
+[Package|diary|Files In Project]
+C:\New Folder\recent\Appointment Diary.exe=Yes
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Common Files\SYSTEM\ADO\MSADO20.TLB=Yes
+C:\WINDOWS\SYSTEM\MSRDC20.OCX=Yes
+C:\WINDOWS\SYSTEM\MSRDO20.DLL=Yes
+C:\WINDOWS\SYSTEM\RDOCURS.DLL=Yes
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=Yes
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=Yes
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=Yes
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=Yes
+C:\WINDOWS\SYSTEM\MSCOMCT2.OCX=Yes
+C:\WINDOWS\SYSTEM\Msinet.ocx=Yes
+C:\WINDOWS\SYSTEM\Richtx32.ocx=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\WINDOWS\SYSTEM\Mswinsck.ocx=Yes
+C:\WINDOWS\SYSTEM\MSMAPI32.OCX=Yes
+C:\WINDOWS\SYSTEM\PICCLP32.OCX=Yes
+C:\WINDOWS\SYSTEM\SYSINFO.OCX=Yes
+C:\WINDOWS\SYSTEM\MSCOMM32.OCX=Yes
+C:\WINDOWS\SYSTEM\MSMASK32.OCX=Yes
+C:\WINDOWS\SYSTEM\MSDATGRD.OCX=Yes
+C:\WINDOWS\SYSTEM\MSSTDFMT.DLL=Yes
+C:\WINDOWS\SYSTEM\MSDATLST.OCX=Yes
+C:\WINDOWS\SYSTEM\COMCT332.OCX=Yes
+C:\WINDOWS\SYSTEM\MSADODC.OCX=Yes
+C:\WINDOWS\SYSTEM\MSHFLXGD.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|diary|Configure Registry Files]
+Applicable=No
+
+[Package|diary|Configure Remote Servers]
+Applicable=No
+
+[Package|diary|Install Locations]
+C:\New Folder\recent\Appointment Diary.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Common Files\SYSTEM\ADO\MSADO20.TLB=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSRDC20.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSRDO20.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\RDOCURS.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\Msinet.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\Richtx32.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\Mswinsck.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSMAPI32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\PICCLP32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\SYSINFO.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMM32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSMASK32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSDATGRD.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSDATLST.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMCT332.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSADODC.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSHFLXGD.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|diary|Configure Shared Files]
+Applicable=Yes
+C:\New Folder\recent\Appointment Diary.exe=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+
+[Package|diary|Distribution]
+Type=single
+Size=
+Title=Appointment Diary
+
+[Package|diary|IconGroups]
+Group0=Appointment Diary
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|diary|Appointment Diary]
+Icon1="Appointment Diary.exe"
+Title1=Appointment Diary
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|diary|Package]
+PackageFolder=C:\New Folder\recent\Application
+ProjectFolder=C:\New Folder\recent
+ServerSideCab=
+File1=C:\New Folder\recent\Application\setup.exe
+File2=C:\New Folder\recent\Application\Setup.Lst
+File3=C:\New Folder\recent\Application\Appointment Diary.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Appointment Diary|Package]
+PackageFolder=C:\Appointment Diary
+ProjectFolder=C:\New Folder\recent
+ServerSideCab=
+File1=C:\Appointment Diary\setup.exe
+File2=C:\Appointment Diary\Setup.Lst
+File3=C:\Appointment Diary\Appointment Diary.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Appointment Diary|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Appointment Diary
+
+[Package|Appointment Diary|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Appointment Diary|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Appointment Diary|Files Found]
+
+[Package|Appointment Diary|Files Released]
+
+[Package|Appointment Diary|Missing Dependency Information]
+
+[Package|Appointment Diary|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM\MSADODC.OCX=
+C:\WINDOWS\SYSTEM\COMCT332.OCX=
+C:\WINDOWS\SYSTEM\MSDATLST.OCX=
+C:\WINDOWS\SYSTEM\MSDATGRD.OCX=
+C:\WINDOWS\SYSTEM\MSMASK32.OCX=
+C:\WINDOWS\SYSTEM\Mswinsck.ocx=
+C:\WINDOWS\SYSTEM\Richtx32.ocx=
+C:\WINDOWS\SYSTEM\Msinet.ocx=
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=
+
+[Package|Appointment Diary|Files Added]
+
+[Package|Appointment Diary|Files Removed]
+
+[Package|Appointment Diary|Files In Project]
+C:\New Folder\recent\Appointment Diary.exe=Yes
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Common Files\SYSTEM\ADO\MSADO20.TLB=Yes
+C:\WINDOWS\SYSTEM\MSRDC20.OCX=Yes
+C:\WINDOWS\SYSTEM\MSRDO20.DLL=Yes
+C:\WINDOWS\SYSTEM\RDOCURS.DLL=Yes
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=Yes
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=Yes
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=Yes
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=Yes
+C:\WINDOWS\SYSTEM\MSCOMCT2.OCX=Yes
+C:\WINDOWS\SYSTEM\Msinet.ocx=Yes
+C:\WINDOWS\SYSTEM\Richtx32.ocx=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\WINDOWS\SYSTEM\Mswinsck.ocx=Yes
+C:\WINDOWS\SYSTEM\MSMAPI32.OCX=Yes
+C:\WINDOWS\SYSTEM\PICCLP32.OCX=Yes
+C:\WINDOWS\SYSTEM\SYSINFO.OCX=Yes
+C:\WINDOWS\SYSTEM\MSCOMM32.OCX=Yes
+C:\WINDOWS\SYSTEM\MSMASK32.OCX=Yes
+C:\WINDOWS\SYSTEM\MSDATGRD.OCX=Yes
+C:\WINDOWS\SYSTEM\MSSTDFMT.DLL=Yes
+C:\WINDOWS\SYSTEM\MSDATLST.OCX=Yes
+C:\WINDOWS\SYSTEM\COMCT332.OCX=Yes
+C:\WINDOWS\SYSTEM\MSADODC.OCX=Yes
+C:\WINDOWS\SYSTEM\MSHFLXGD.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Appointment Diary|Configure Registry Files]
+Applicable=No
+
+[Package|Appointment Diary|Configure Remote Servers]
+Applicable=No
+
+[Package|Appointment Diary|Install Locations]
+C:\New Folder\recent\Appointment Diary.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Common Files\SYSTEM\ADO\MSADO20.TLB=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSRDC20.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSRDO20.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\RDOCURS.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\Msinet.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\Richtx32.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\Mswinsck.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSMAPI32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\PICCLP32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\SYSINFO.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMM32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSMASK32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSDATGRD.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSDATLST.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMCT332.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSADODC.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSHFLXGD.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Appointment Diary|Configure Shared Files]
+Applicable=Yes
+C:\New Folder\recent\Appointment Diary.exe=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+
+[Package|Appointment Diary|Distribution]
+Type=single
+Size=
+Title=Appointment Diary
+
+[Package|Appointment Diary|IconGroups]
+Group0=Appointment Diary
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Appointment Diary|Appointment Diary]
+Icon1="Appointment Diary.exe"
+Title1=Appointment Diary
+StartIn1=$(AppPath)
+Key1=Icon1
+
+
+[Package|Application Diary|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Appointment Diary
+
+[Package|Application Diary|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Application Diary|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Application Diary|Files Found]
+
+[Package|Application Diary|Files Released]
+
+[Package|Application Diary|Missing Dependency Information]
+
+[Package|Application Diary|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM\MSADODC.OCX=
+C:\WINDOWS\SYSTEM\COMCT332.OCX=
+C:\WINDOWS\SYSTEM\MSDATLST.OCX=
+C:\WINDOWS\SYSTEM\MSDATGRD.OCX=
+C:\WINDOWS\SYSTEM\MSMASK32.OCX=
+C:\WINDOWS\SYSTEM\Mswinsck.ocx=
+C:\WINDOWS\SYSTEM\Richtx32.ocx=
+C:\WINDOWS\SYSTEM\Msinet.ocx=
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=
+
+[Package|Application Diary|Files Added]
+
+[Package|Application Diary|Files Removed]
+
+[Package|Application Diary|Files In Project]
+C:\Appointment Diary\Appointment Diary.exe=Yes
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Common Files\SYSTEM\ADO\MSADO20.TLB=Yes
+C:\WINDOWS\SYSTEM\MSRDC20.OCX=Yes
+C:\WINDOWS\SYSTEM\MSRDO20.DLL=Yes
+C:\WINDOWS\SYSTEM\RDOCURS.DLL=Yes
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=Yes
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=Yes
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=Yes
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=Yes
+C:\WINDOWS\SYSTEM\MSCOMCT2.OCX=Yes
+C:\WINDOWS\SYSTEM\Msinet.ocx=Yes
+C:\WINDOWS\SYSTEM\Richtx32.ocx=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\WINDOWS\SYSTEM\Mswinsck.ocx=Yes
+C:\WINDOWS\SYSTEM\MSMAPI32.OCX=Yes
+C:\WINDOWS\SYSTEM\PICCLP32.OCX=Yes
+C:\WINDOWS\SYSTEM\SYSINFO.OCX=Yes
+C:\WINDOWS\SYSTEM\MSCOMM32.OCX=Yes
+C:\WINDOWS\SYSTEM\MSMASK32.OCX=Yes
+C:\WINDOWS\SYSTEM\MSDATGRD.OCX=Yes
+C:\WINDOWS\SYSTEM\MSSTDFMT.DLL=Yes
+C:\WINDOWS\SYSTEM\MSDATLST.OCX=Yes
+C:\WINDOWS\SYSTEM\COMCT332.OCX=Yes
+C:\WINDOWS\SYSTEM\MSADODC.OCX=Yes
+C:\WINDOWS\SYSTEM\MSHFLXGD.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Application Diary|Configure Registry Files]
+Applicable=No
+
+[Package|Application Diary|Configure Remote Servers]
+Applicable=No
+
+[Package|Application Diary|Install Locations]
+C:\Appointment Diary\Appointment Diary.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Common Files\SYSTEM\ADO\MSADO20.TLB=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSRDC20.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSRDO20.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\RDOCURS.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\Msinet.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\Richtx32.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\Mswinsck.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSMAPI32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\PICCLP32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\SYSINFO.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMM32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSMASK32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSDATGRD.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSDATLST.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMCT332.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSADODC.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSHFLXGD.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Application Diary|Configure Shared Files]
+Applicable=Yes
+C:\Appointment Diary\Appointment Diary.exe=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+
+[Package|Application Diary|Distribution]
+Type=single
+Size=
+Title=Appointment Diary
+
+[Package|Application Diary|IconGroups]
+Group0=Appointment Diary
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Application Diary|Appointment Diary]
+Icon1="Appointment Diary.exe"
+Title1=Appointment Diary
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Application Diary|Package]
+PackageFolder=C:\Appointment Diary
+ProjectFolder=C:\New Folder\recent
+ServerSideCab=
+File1=C:\Appointment Diary\setup.exe
+File2=C:\Appointment Diary\Setup.Lst
+File3=C:\Appointment Diary\Appointment Diary.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Appointment Diarys|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=g:\Appointment Diary
+
+[Package|Appointment Diarys|Configure DAO ISAMs]
+Applicable=Yes
+Text=Yes
+Jet 2.x=Yes
+
+[Package|Appointment Diarys|Configure DAO ODBC]
+JetWorkspace=Yes
+ODBCDirect=Yes
+
+[Package|Appointment Diarys|Files Found]
+
+[Package|Appointment Diarys|Files Released]
+
+[Package|Appointment Diarys|Missing Dependency Information]
+F:\WINNT\system32\msxml3.dll=
+F:\Program Files\Common Files\System\ado\msado20.tlb=
+F:\Program Files\Common Files\System\ado\msjro.dll=
+F:\WINNT\system32\wininet.dll=
+F:\WINNT\system32\msjro.dll=
+
+[Package|Appointment Diarys|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM\MSADODC.OCX=
+C:\WINDOWS\SYSTEM\COMCT332.OCX=
+C:\WINDOWS\SYSTEM\MSDATLST.OCX=
+C:\WINDOWS\SYSTEM\MSDATGRD.OCX=
+C:\WINDOWS\SYSTEM\MSMASK32.OCX=
+C:\WINDOWS\SYSTEM\Mswinsck.ocx=
+C:\WINDOWS\SYSTEM\Richtx32.ocx=
+C:\WINDOWS\SYSTEM\Msinet.ocx=
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=
+F:\WINNT\system32\COMCT332.OCX=
+F:\WINNT\system32\COMDLG32.OCX=
+F:\WINNT\system32\TABCTL32.OCX=
+
+[Package|Appointment Diarys|Files Added]
+g:\appointment\appointment diary.mdb=
+g:\appointment\appdiary.mdb=
+
+[Package|Appointment Diarys|Files Removed]
+g:\appointment\appointment diary.mdb=
+
+[Package|Appointment Diarys|Files In Project]
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+G:\appointment\Appointment Diary.exe=Yes
+F:\WINNT\system32\msvbvm60.dll=Yes
+F:\WINNT\system32\oleaut32.dll=Yes
+F:\WINNT\system32\olepro32.dll=Yes
+F:\WINNT\system32\asycfilt.dll=Yes
+F:\WINNT\system32\stdole2.tlb=Yes
+F:\Program Files\Common Files\System\ado\msado20.tlb=Yes
+F:\WINNT\system32\msxml3.dll=Yes
+F:\WINNT\system32\TABCTL32.OCX=Yes
+F:\WINNT\system32\MSFLXGRD.OCX=Yes
+F:\WINNT\system32\COMDLG32.OCX=Yes
+F:\WINNT\system32\MSCOMCTL.OCX=Yes
+F:\WINNT\system32\MSCOMCT2.OCX=Yes
+F:\WINNT\system32\MSINET.OCX=Yes
+F:\WINNT\system32\RICHTX32.OCX=Yes
+F:\WINNT\system32\MSWINSCK.OCX=Yes
+F:\WINNT\system32\MSMAPI32.OCX=Yes
+F:\WINNT\system32\PICCLP32.OCX=Yes
+F:\WINNT\system32\SYSINFO.OCX=Yes
+F:\WINNT\system32\MSCOMM32.OCX=Yes
+F:\WINNT\system32\MSMASK32.OCX=Yes
+F:\WINNT\system32\MSDATGRD.OCX=Yes
+F:\WINNT\system32\MSSTDFMT.DLL=Yes
+F:\WINNT\system32\MSDATLST.OCX=Yes
+F:\WINNT\system32\COMCT332.OCX=Yes
+F:\WINNT\system32\MSADODC.OCX=Yes
+F:\WINNT\system32\MSHFLXGD.OCX=Yes
+F:\Program Files\Common Files\Microsoft Shared\DAO\DAO350.DLL=Yes
+F:\WINNT\system32\MSJET35.DLL=Yes
+F:\WINNT\system32\MSJTER35.DLL=Yes
+F:\WINNT\system32\MSJINT35.DLL=Yes
+F:\WINNT\system32\vbajet32.dll=Yes
+F:\WINNT\system32\expsrv.dll=Yes
+F:\WINNT\system32\MSRD2X35.DLL=Yes
+F:\WINNT\system32\MSREPL35.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+F:\WINNT\system32\VB5DB.DLL=Yes
+F:\Program Files\Common Files\designer\MSDERUN.DLL=Yes
+F:\WINNT\system32\VB6STKIT.DLL=Yes
+G:\appointment\Appointment Diary.mdb=No
+F:\WINNT\system32\wininet.dll=Yes
+G:\appointment\AppDiary.mdb=Yes
+F:\WINNT\system32\msjro.dll=Yes
+F:\WINNT\system32\MSRDO20.DLL=Yes
+F:\WINNT\system32\RDOCURS.DLL=Yes
+F:\WINNT\system32\mstext35.dll=Yes
+
+[Package|Appointment Diarys|Configure Registry Files]
+Applicable=No
+
+[Package|Appointment Diarys|Configure Remote Servers]
+Applicable=No
+
+[Package|Appointment Diarys|Install Locations]
+C:\Appointment Diary\Appointment Diary.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Common Files\SYSTEM\ADO\MSADO20.TLB=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSRDC20.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSRDO20.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\RDOCURS.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\Msinet.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\Richtx32.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\Mswinsck.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSMAPI32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\PICCLP32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\SYSINFO.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMM32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSMASK32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSDATGRD.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSDATLST.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMCT332.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSADODC.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSHFLXGD.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+G:\appointment\Appointment Diary.exe=$(AppPath)
+F:\WINNT\system32\msvbvm60.dll=$(WinSysPathSysFile)
+F:\WINNT\system32\oleaut32.dll=$(WinSysPathSysFile)
+F:\WINNT\system32\olepro32.dll=$(WinSysPathSysFile)
+F:\WINNT\system32\asycfilt.dll=$(WinSysPathSysFile)
+F:\WINNT\system32\stdole2.tlb=$(WinSysPathSysFile)
+F:\Program Files\Common Files\System\ado\msado20.tlb=$(WinSysPath)
+F:\WINNT\system32\msxml3.dll=$(WinSysPath)
+F:\WINNT\system32\TABCTL32.OCX=$(WinSysPath)
+F:\WINNT\system32\MSFLXGRD.OCX=$(WinSysPath)
+F:\WINNT\system32\COMDLG32.OCX=$(WinSysPath)
+F:\WINNT\system32\MSCOMCTL.OCX=$(WinSysPath)
+F:\WINNT\system32\MSCOMCT2.OCX=$(WinSysPath)
+F:\WINNT\system32\MSINET.OCX=$(WinSysPath)
+F:\WINNT\system32\RICHTX32.OCX=$(WinSysPath)
+F:\WINNT\system32\MSWINSCK.OCX=$(WinSysPath)
+F:\WINNT\system32\MSMAPI32.OCX=$(WinSysPath)
+F:\WINNT\system32\PICCLP32.OCX=$(WinSysPath)
+F:\WINNT\system32\SYSINFO.OCX=$(WinSysPath)
+F:\WINNT\system32\MSCOMM32.OCX=$(WinSysPath)
+F:\WINNT\system32\MSMASK32.OCX=$(WinSysPath)
+F:\WINNT\system32\MSDATGRD.OCX=$(WinSysPath)
+F:\WINNT\system32\MSSTDFMT.DLL=$(WinSysPath)
+F:\WINNT\system32\MSDATLST.OCX=$(WinSysPath)
+F:\WINNT\system32\COMCT332.OCX=$(WinSysPath)
+F:\WINNT\system32\MSADODC.OCX=$(WinSysPath)
+F:\WINNT\system32\MSHFLXGD.OCX=$(WinSysPath)
+F:\Program Files\Common Files\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+F:\WINNT\system32\MSJET35.DLL=$(WinSysPathSysFile)
+F:\WINNT\system32\MSJTER35.DLL=$(WinSysPathSysFile)
+F:\WINNT\system32\MSJINT35.DLL=$(WinSysPathSysFile)
+F:\WINNT\system32\vbajet32.dll=$(WinSysPathSysFile)
+F:\WINNT\system32\expsrv.dll=$(WinSysPathSysFile)
+F:\WINNT\system32\MSRD2X35.DLL=$(WinSysPathSysFile)
+F:\WINNT\system32\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+F:\WINNT\system32\VB5DB.DLL=$(WinSysPath)
+F:\Program Files\Common Files\designer\MSDERUN.DLL=$(CommonFiles)\designer
+F:\WINNT\system32\MSRDO20.DLL=$(WinSysPath)
+F:\WINNT\system32\RDOCURS.DLL=$(WinSysPath)
+F:\WINNT\system32\mstext35.dll=$(WinSysPathSysFile)
+F:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+G:\appointment\Appointment Diary.mdb=$(AppPath)
+F:\WINNT\system32\wininet.dll=$(WinSysPath)
+F:\Program Files\Common Files\System\ado\msjro.dll=$(WinSysPath)
+G:\appointment\AppDiary.mdb=$(AppPath)
+F:\WINNT\system32\msjro.dll=$(WinSysPath)
+
+[Package|Appointment Diarys|Configure Shared Files]
+Applicable=Yes
+C:\Appointment Diary\Appointment Diary.exe=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+G:\appointment\Appointment Diary.exe=No
+G:\appointment\Appointment Diary.mdb=No
+G:\appointment\AppDiary.mdb=No
+
+[Package|Appointment Diarys|Distribution]
+Type=single
+Size=
+Title=Appointment Diary
+
+[Package|Appointment Diarys|Package]
+PackageFolder=g:\Appointment Diary
+ProjectFolder=G:\appointment
+ServerSideCab=
+File1=g:\Appointment Diary\setup.exe
+File2=g:\Appointment Diary\Setup.Lst
+File3=g:\Appointment Diary\Appointment Diary.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Appointment Diarys|IconGroups]
+Group0=Appointment Diary
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Appointment Diarys|Appointment Diary]
+Icon1="Appointment Diary.exe"
+Title1=Appointment Diary
+StartIn1=$(AppPath)
+Key1=Icon1
